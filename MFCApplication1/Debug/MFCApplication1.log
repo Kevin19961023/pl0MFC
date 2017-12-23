@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/1/11 10:38:57。
+     1>项目“G:\compiler_pl0\pl0MFC\MFCApplication1\MFCApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication1Dlg.cpp
+         MFCApplication1Dlg.cpp
+       Link:
+         F:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\compiler_pl0\pl0MFC\Debug\MFCApplication1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:F:\VS2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\compiler_pl0\pl0MFC\Debug\MFCApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\compiler_pl0\pl0MFC\Debug\MFCApplication1.lib" /MACHINE:X86 Debug\MFCApplication1.res
+         Debug\MFCApplication1.obj
+         Debug\MFCApplication1Dlg.obj
+         Debug\Pl0.obj
+         Debug\stdafx.obj
+         MFCApplication1.vcxproj -> G:\compiler_pl0\pl0MFC\Debug\MFCApplication1.exe
+     1>已完成生成项目“G:\compiler_pl0\pl0MFC\MFCApplication1\MFCApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.43
